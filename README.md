@@ -1,1 +1,1 @@
-# Quiz
+# Pacman (Labirint)
